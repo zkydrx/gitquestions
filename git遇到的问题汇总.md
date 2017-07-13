@@ -50,6 +50,10 @@
 
    发现代码托管仓库中的确有了一个新的文件夹test而且test文件夹里面确实有README.md文件。
 
+7. ![](https://raw.githubusercontent.com/zkydrx/images/master/think/pushwrong.png)
+
+   ​	上图说明本地仓库中要么没有文件，要么没有添加，提交。
+
    ## 总结
 
    - github无法接受空的文件夹推送。如果要有空文件夹要在空文件夹中添加必要的文件方可推送。
